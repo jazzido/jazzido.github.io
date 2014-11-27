@@ -1,0 +1,14 @@
+title:        Millón de Monos
+tagline:      'Weblog de Manuel Aristarán'
+description:  'Weblog de Manuel Aristarán'
+url:          http://blog.jazzido.com
+version:      1.1.1
+author:
+  name:       ''
+  email:      ''
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
+google_analytics: UA-68057-6
+disqus: millondemonos
