@@ -16,9 +16,9 @@ Aprovechando ese trabajo, elaboré esa misma visualización para el partido de B
 
 Para reutilizar este mapa en otros sitios web, usar el siguiente código HTML:
 
-{% raw %}
-<iframe style="width: 100%; height: 400px;" src="http://dump.jazzido.com/bahia-paso2013/index_bahia.html"></iframe> 
-{% endraw %}
+```
+&lt;iframe style="width: 100%; height: 400px;" src="http://dump.jazzido.com/bahia-paso2013/index_bahia.html"&gt;&lt;/iframe&;gt
+```
 
 **Se solicita citar la fuente**. 
 
