@@ -12,7 +12,16 @@ Como parte de mi trabajo como [becario Knight -Mozilla OpenNews][1] en el diario
 
 Aprovechando ese trabajo, elaboré esa misma visualización para el partido de Bahía Blanca (resultados de la elección para candidatos a diputado nacional). La* territorialidad *del voto es bastante evidente:
 
-<iframe style="width: 100%; height: 400px;" src="http://dump.jazzido.com/bahia-paso2013/index_bahia.html" scrolling="no"></iframe> Para reutilizar este mapa en otros sitios web, usar el siguiente código HTML: <iframe style=&#8221;width: 100%; height: 400px;&#8221; src=&#8221;http://dump.jazzido.com/bahia-paso2013/index_bahia.html&#8221;></iframe> — **Se solicita citar la fuente**. &nbsp; &nbsp;
+<iframe style="width: 100%; height: 400px;" src="http://dump.jazzido.com/bahia-paso2013/index_bahia.html" scrolling="no"></iframe> 
+
+Para reutilizar este mapa en otros sitios web, usar el siguiente código HTML:
+
+```
+<iframe style="width: 100%; height: 400px;" src="http://dump.jazzido.com/bahia-paso2013/index_bahia.html"></iframe> 
+```
+
+**Se solicita citar la fuente**. 
+
 
  [1]: http://www.mozillaopennews.org/fellowships/2013meet.html
  [2]: http://www.lanacion.com.ar/1610253-como-salio-la-eleccion-en-la-escuela-donde-votaste
