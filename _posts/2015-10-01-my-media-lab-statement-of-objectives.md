@@ -223,7 +223,7 @@ do that. I hope that you agree.
     eruption*](http://en.wikipedia.org/wiki/2011_Puyehue-Cord%C3%B3n_Caulle_eruption)
     — Wikipedia. Retrieved 12/2/2013
 
-[4]: [*CUBEBUG-2*](http://2.cubebug.org/) — Launched on November 2013.
+[^4]: [*CUBEBUG-2*](http://2.cubebug.org/) — Launched on November 2013.
 
 [^5]: **Gasto Público Bahiense**:
     [*http://gastopublicobahiense.org*](http://gastopublicobahiense.org)
