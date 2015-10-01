@@ -9,7 +9,7 @@ categories:
 
 Even if the [MIT Media Lab](http://media.mit.edu) admission process is unique in many aspects, as most graduate programs they require an *Statement of Objectives*. Back in 2014, when I decided that I wanted to apply, I didn't anticipate that writing one was going so be *that* difficult; I went over dozens of revisions, begged my friends and family for feedback, checked my grammar, and back again.
 
-I now count myself among the lucky ones that were admitted for the Media Arts and Sciences graduate program in 2015. Here, I'm sharing my attempt at sounding smart-but-not-cocky and correct-but-not-boring, hoping that it'll help those who are thinking of coming to study at this magical place.
+I now count myself among the lucky ones that were admitted for the Media Arts and Sciences graduate program in 2014. Here, I'm sharing my attempt at sounding smart-but-not-cocky and correct-but-not-boring, hoping that it'll help those who are thinking of coming to study at this magical place.
 
 ---
 
