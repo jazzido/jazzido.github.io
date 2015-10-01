@@ -186,8 +186,7 @@ believe that his vision can be also applied to the public sphere, by
 tackling the hard problem of the asymmetry of access to analytical
 tools.
 
-The Center for Civic Media is the perfect place for me to work and
-expand on those ideas. The concepts behind projects like *Action Path,
+The concepts behind projects like Civic Media's *Action Path,
 Promise Tracker,* and *Data Therapy* are in perfect synergy with how I
 imagine the future mechanisms of civic participation. I fantasize about
 a Latin American version of *Media Cloud* and how it could help make
