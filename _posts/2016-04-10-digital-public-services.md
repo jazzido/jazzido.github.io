@@ -1,5 +1,5 @@
 ---
-title: Digital public services: user experience matters
+title: Digital public services — User experience matters
 author: manuel
 layout: post
 permalink: /2016/04/10/digital-public-services-user-experience-matters
@@ -7,7 +7,7 @@ categories:
   - Uncategorized
 ---
 
-*([Originally posted in FOLD](https://fold.cm/read/manuelaristaran/digital-public-services-user-experience-matters-WwpPfdJq)*
+*[Originally posted on FOLD.cm](https://fold.cm/read/manuelaristaran/digital-public-services-user-experience-matters-WwpPfdJq)*
 
 ---
 
