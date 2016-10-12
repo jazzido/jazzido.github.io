@@ -2,7 +2,7 @@
 title: Extrayendo datos reutilizables del Sitio del Ciudadano
 author: manuel
 layout: post
-permalink: /2016/10/12/datos-presupuestarios-argentina-sitio-del-ciudadano.md
+permalink: /2016/10/12/datos-presupuestarios-argentina-sitio-del-ciudadano
 categories:
   - Uncategorized
 ---
