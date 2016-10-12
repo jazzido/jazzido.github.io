@@ -171,6 +171,6 @@ WHERE "Ejercicio Presupuestario"."Cod. Ejercicio Presupuestario"=2016
 
 (Los filtros que aparecen en la cláusula `WHERE` fueron tomados de los reportes)
 
-La tabla/cubo `SITIO DEL CIUDADANO` contiene más dimensiones, que nos permitirían obtener la ejecución presupuestaria a una resolución de **días*, para cualquier fecha desde 1998.
+La tabla/cubo `SITIO DEL CIUDADANO` contiene más dimensiones, que nos permitirían obtener la ejecución presupuestaria a una resolución de **días**, para cualquier fecha desde 1998.
 
 Obtener esa información, y construir reportes o herramientas interesantes, queda como ejercicio para el lector entusiasta.
