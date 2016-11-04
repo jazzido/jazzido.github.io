@@ -7,6 +7,8 @@ categories:
   - Uncategorized
 ---
 
+A continuación, algunas notas que usé para la presentación que di en la [Conferencia CONDATOS 2016](http://condatos.org), realizada en Bogotá el 3 de Noviembre de 2016
+
 Presentación
 ============
 
@@ -55,7 +57,7 @@ Modificamos el sistema de extracción de datos (saltar ese CAPTCHA era **muy** f
 Creación de la Secretaría de Innovación y Gobierno Abierto
 ----------------------------------------------------------
 
-En 2012 —GPB ya llevaba 2 años funcionando— cambió el alcalde de la ciudad. El nuevo gobierno creó una Secretaría de Innovación y Gobierno Abierto, inspirado por la experiencia de nuestro proyecto. Fue la primera vez que tuve contacto con un representante del Municipio. La nueva Secretaría, en lugar de entorpecer el acceso a la información, nos lo facilitó dándonos acceso a un /web service/.
+En 2012 —GPB ya llevaba 2 años funcionando— cambió el alcalde de la ciudad. El nuevo gobierno creó una Secretaría de Innovación y Gobierno Abierto, inspirado por la experiencia de nuestro proyecto. Fue la primera vez que tuve contacto con un representante del Municipio. La nueva Secretaría, en lugar de entorpecer el acceso a la información, nos lo facilitó dándonos acceso a un *web service*.
 
 Demanda de los datos por parte del sector público
 -------------------------------------------------
@@ -78,7 +80,7 @@ Mitos de Open Data
 
 La idea de "Open Data para el desarrollo de emprendimientos privados", frecuentemente se ilustra con proyectos de gran escala como el Sistema de Posicionamiento Global (GPS) o el servicio meteorológico de EE.UU. Semejantes obras de infraestructura digital no pueden ser comparadas con liberar un pocos datasets y pretender que los emprendedores privados los tomen para producir valor.
 
-Además, en mi opinión, en este mito subyace una cierta idea de voluntarismo: ciudadanos cumpliendo el rol del estado. No hay nada de mal en eso, pero —tomando prestado un concepto de ingeniería— /no escala/. Los proyectos sustentables necesitan de la infraestructura y profesionalismo que sólo puede aportar una organización.
+Además, en mi opinión, en este mito subyace una cierta idea de voluntarismo: ciudadanos cumpliendo el rol del estado. No hay nada de mal en eso, pero —tomando prestado un concepto de ingeniería— *no escala*. Los proyectos sustentables necesitan de la infraestructura y profesionalismo que sólo puede aportar una organización.
 
 Los "ciudadanos comunes" se involucrarán en el control y auditoría de la gestión pública
 ----------------------------------------------------------------------------------------
@@ -103,7 +105,7 @@ Por supuesto, un repositorio de información es un requisito *necesario* para un
 
 Tomo prestada una metáfora de mi supervisor de tesis en MIT César Hidalgo:
 
-> "Imagínense ir a hacer las compras a un supermercado donde todos los productos están en cajas idénticas. Pasta, shampoo, aceite: todos en la misma caja. La experiencia de comprar en ese supermercado es parecida a la de buscar una base de datos en casi cualquier portal de datos públicos. Para poder saber qué contienen, tengo que descargarlo y abrirlo con una aplicación, o interactuar con una API; un procedimiento que requiere de conocimientos relativamente avanzados de programación" ([What's Wrong with Open-Data Sites--and How We Can Fix Them](https://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/), Scientific American)
+> Imagínense ir a hacer las compras a un supermercado donde todos los productos están en cajas idénticas. Pasta, shampoo, aceite: todos en la misma caja. La experiencia de comprar en ese supermercado es parecida a la de buscar una base de datos en casi cualquier portal de datos públicos. Para poder saber qué contienen, tengo que descargarlo y abrirlo con una aplicación, o interactuar con una API; un procedimiento que requiere de conocimientos relativamente avanzados de programación ([What's Wrong with Open-Data Sites--and How We Can Fix Them](https://blogs.scientificamerican.com/guest-blog/what-s-wrong-with-open-data-sites-and-how-we-can-fix-them/), Scientific American)
 
 El paradigma de diseño de los portales de datos, por otro lado, establece un sesgo hacia abrir *más* datasets y no hacia abrirlos *mejor*. Notemos, por ejemplo, que el *número de datasets* disponibles se enfatiza en todos los portales de datos. No obstante, es fácil fabricar datasets. Por ejemplo, es frecuente ver en muchos portales de datos, una tabla de presupuesto "partida" en varios archivos. Con ese viejo truco, podemos fabricar varios datasets a partir de uno.
 
