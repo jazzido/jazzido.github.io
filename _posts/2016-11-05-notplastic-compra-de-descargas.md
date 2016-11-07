@@ -23,7 +23,7 @@ Luego de un par de años de estar en línea, y de haber publicado algunos proyec
   - La enorme mayoría de los que compraron algo, pagaron el mínimo, pese a ser precios irrisorios (más barato que un kilo de milanesas, o una coca grande).
   - A pesar de la complejidad de su API, y lo deficiente de su documentación, Mercado Pago funciona bastante bien.
 
-Este proyecto nunca tuvo desarrollo comercial, ni de producto (así lo demuestra su horrible diseño gráfico). Pero esta breve y superficial experiencia me sugiere que este modelo no funciona. Ya no bajamos música, ni ningún tipo de *bien digital*: los consumimos online, en plataformas como YouTube. Esto es una mala noticia para los músicos, que se ven sujetos a la explotación de esos monopolios, o se ven forzados a regalar su discos.
+Este proyecto nunca tuvo desarrollo comercial, ni de producto (así lo demuestra su horrible diseño gráfico). Pero esta breve y superficial experiencia me sugiere que este modelo no funciona. Ya no bajamos música, ni ningún tipo de *bien digital*: los consumimos online, en plataformas como YouTube. 
 
 De todas maneras, fue un experimento interesante, y me mantuvo entretenido los días previos a mudarnos a EE.UU.
 
