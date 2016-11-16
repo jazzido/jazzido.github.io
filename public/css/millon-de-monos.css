@@ -3,9 +3,9 @@ div.post img {
 }
 
 a {
-    font-weight: 600 !important;
-    color: #3b3bd4 !important;
-    text-decoration: underline !important;
+    font-weight: 600;
+    color: #3b3bd4;
+    text-decoration: underline;
 }
 
 a:hover {
