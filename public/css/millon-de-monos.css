@@ -2,12 +2,12 @@ div.post img {
   width: 98%;
 }
 
-a {
+.post a {
     font-weight: 600;
     color: #3b3bd4;
     text-decoration: underline;
 }
 
-a:hover {
+.post a:hover {
     text-decoration: none; 
 }
