@@ -12,3 +12,4 @@ highlighter:  rouge
 paginate:     5
 google_analytics: UA-68057-6
 disqus: millondemonos
+gems: [jekyll-paginate]
