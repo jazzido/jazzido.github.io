@@ -1,5 +1,5 @@
 ---
-title: OpenRAFAM
+title: OpenRAFAM&#58; Abriendo los Presupuestos Municipales
 author: manuel
 layout: post
 permalink: /2017/04/03/openrafam-abriendo-los-presupuestos-municipales
@@ -14,7 +14,7 @@ El uso de los recursos públicos es uno de las fuentes de información más impo
 Un sistema que corre en al menos 135 municipios
 -----------------------------------------------
 
-Unas de las primeras veces que hablé públicamente sobre GPB fue hace casi 7 años en el [Hackatón de Datos Públicos y Gobierno Abierto](http://www.redusers.com/noticias/primer-%25E2%2580%259Chackathon%25E2%2580%259D-de-datos-publicos-y-gobierno-abierto-en-argentina/) que organizamos con Garage Lab junto al Programa de Gobierno Electrónico de la Universidad de San Andrés. [Hay video de esa charla](https://vimeo.com/15558781). Durante el evento de dos días, que recuerdo como el mejor hackatón al que haya asistido, alguien me comentó que la información administrativa (presupuestos, personal, tasas, etc) de los 135 municipios bonaerenses se almacenaba en un sistema llamado *RAFAM*, que corre en todos los partidos de la provincia. Con la candidez que tenemos los ingenieros con poca experiencia en política, dijimos —«Obvio! Hay que escribir software que extraiga los datos de esos 135 servidores Oracle, convencer a los intendentes que los instalen, y listo: información fiscal para todos y todas». Para eso, necesitábamos acceso a alguno de esos sistemas para poder hacer la *ingeniería reversa* correspondiente. No llegamos muy lejos; como suele suceder en muchos esfuerzos voluntaristas, el entusiasmo se fue apagando luego del hackatón. Además, los contactos iniciales con algunos municipios nos hicieron pensar que ningún secretario de hacienda iba a darnos acceso irrestricto a su sistema contable para poder *reversearlo*.
+Unas de las primeras veces que hablé públicamente sobre GPB fue hace casi 7 años en el [Hackatón de Datos Públicos y Gobierno Abierto](http://www.redusers.com/noticias/primer-%25E2%2580%259Chackathon%25E2%2580%259D-de-datos-publicos-y-gobierno-abierto-en-argentina/) que organizamos con Garage Lab junto al Programa de Gobierno Electrónico de la Universidad de San Andrés. [Hay video de esa charla](https://vimeo.com/15558781). Durante el evento de dos días, que recuerdo como el mejor hackatón al que haya asistido, alguien me comentó que la información administrativa (presupuestos, personal, tasas, etc) de los 135 municipios bonaerenses se almacenaba en un sistema llamado *RAFAM*, que corre en todos los partidos de la provincia. Con la candidez que tenemos los ingenieros con poca experiencia en política, dijimos —«Obvio! Hay que escribir software que extraiga los datos de esos 135 servidores Oracle, convencer a los intendentes que lo instalen, y ya está: información fiscal para todos y todas». Para eso, necesitábamos acceder a alguno de esos sistemas para poder hacer la *ingeniería reversa* correspondiente. No llegamos muy lejos; como suele suceder en muchos esfuerzos voluntaristas el entusiasmo se fue apagando luego del hackatón. Además, los contactos iniciales con algunos municipios nos hicieron pensar que ningún secretario de hacienda iba a darnos acceso irrestricto a su sistema contable para poder *reversearlo*.
 
 Pero la idea de un componente de software que fuese capaz de extraer datos de 135 bases de datos municipales era demasiado potente como para dejarla ir así no más.
 
@@ -51,7 +51,7 @@ El código está en mi perfil de GitHub: <https://github.com/jazzido/openrafam>
 ¿Para qué sirve todo esto?
 --------------------------
 
-Pese a los anuncios grandilocuentes, los eventos, los subsidios y los hackatones, los servicios públicos basados en datos avanzaron muy poco en los ~7 años de historia del movimientos de datos abiertos en Argentina. Estoy convencido de que la falta de voluntad política es la razón más importante, pero también la falta de capacidades técnicas en el sector público.
+Pese a los anuncios grandilocuentes, los eventos, los subsidios y los hackatones, los servicios públicos basados en datos avanzaron muy poco en los ~8 años de historia del movimiento de datos abiertos en Argentina. Estoy convencido de que la falta de voluntad política es la razón más importante, pero también la falta de capacidades técnicas en el sector público.
 
 Quizás, ayudando desde afuera con lo que sabemos hacer (programar), animemos a los municipios a construir sistemas de información basados en datos tanto para consumo interno como externo.
 
