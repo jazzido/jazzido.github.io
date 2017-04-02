@@ -28,7 +28,7 @@ El último proyecto en el que colaboré con la Agencia de Innovación y Gobierno
 Levantando el capot de RAFAM
 ----------------------------
 
-Pensaba que escribir las consultas SQL para extraer datos de RAFAM sería una tarea relativamente fácil, pero fui víctima una vez más del optimismo del que sufrimos los ingenieros. Cuando me conecté a esa base de datos, me encontré con un sistema con casi 2000 tablas, cientos de vistas y cientos de *stored procedures*. No iba a ser tan fácil.
+Pensaba que escribir las consultas SQL para extraer datos de RAFAM sería una tarea relativamente fácil, pero fui víctima una vez más del optimismo del que sufrimos los ingenieros. Cuando me conecté a esa base de datos, me encontré con un sistema con casi 2000 tablas, cientos de vistas y miles de *stored procedures*. No iba a ser tan fácil.
 
 ![Muchas tablas](http://blog.jazzido.com/wp-content/uploads/2017/04/tablas_rafam.png)
 
@@ -39,7 +39,7 @@ Armados con esta información, junto al [Dr. Gastón Ávila](https://twitter.com
 ¿Y el código?
 -------------
 
-Siempre tuve la intención de liberar el código de Presupuesto Abierto y [SpendView](http://spendview.media.mit.edu), ambos desarrollados dentro de mi tesis de maestría. El optimismo ingenieril otra vez al ataque: el código escrito durante una carrera de posgrado está lejos de ser publicable, pero quiero empezar con ese proceso más temprano que tarde. Hoy empiezo publicando el código del programa que sirve para *extraer* los datos de ejecución presupuestaria de una instancia de RAFAM. Consiste en dos módulos escritos en lenguaje Python.
+Siempre tuve la intención de liberar el código de Presupuesto Abierto y [SpendView](http://spendview.media.mit.edu), ambos desarrollados dentro de mi tesis de maestría. El optimismo ingenieril otra vez al ataque: el código escrito frenéticamente durante una carrera de posgrado está lejos de ser publicable, pero quiero empezar con ese proceso más temprano que tarde. Hoy comienzo publicando el código del programa que sirve para *extraer* los datos de ejecución presupuestaria de una instancia de RAFAM. Consiste en dos módulos escritos en lenguaje Python.
 
 -   `rafam_db`: encapsula las consultas SQL que escribimos basándonos en los reportes que genera el sistema RAFAM.
 -   `rafam_extract`: comando para ejecutar las consultas del modulo `rafam_db`
