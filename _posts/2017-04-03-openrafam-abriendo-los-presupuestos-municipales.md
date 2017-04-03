@@ -9,7 +9,8 @@ categories:
 
 Han ocurrido muchas cosas desde los primeros esfuerzos para construir recursos de información basados en datos públicos gubernamentales. Desde [Dinero y Política](https://web-beta.archive.org/web/20091010004652/www.dineroypolitica.org), esfuerzo fundacional de [Gonzalo Iglesias](http://twitter.com/gonzaloiglesias) y [Poder Ciudadano](http://poderciudadano.org), y [Gasto Público Bahiense](http://blog.jazzido.com/2010/07/18/un-experimento-sobre-tecnologia-y-transparencia-gubernamental/) (GPB) —de quien escribe—, algunos gobiernos en Argentina adoptaron políticas de transparencia acompañadas de implementaciones de herramientas online. Pese a estos 8 años de historia y evolución en el país, los resultados son bastante pobres. Los proyectos surgidos de la sociedad civil tienen problemas de sustentabilidad, el sector privado no se interesa en el tema, y el sector público tiene un [enorme déficit en su capacidad de construir servicios públicos digitales](http://blog.jazzido.com/2016/04/10/digital-public-services-user-experience-matters).
 
-El uso de los recursos públicos es uno de las fuentes de información más importante que genera el gobierno en cualquiera de sus niveles. En particular, el presupuesto y su ejecución quizás sea el *dataset* más importante que produce y mantiene una administración pública.
+El uso de los recursos públicos es una de las fuentes de información más importantes que genera el gobierno en cualquiera de sus niveles. En particular, el presupuesto y su ejecución quizás sea el *dataset* más valioso que produce y mantiene una administración pública. Las prioridades de la poltica pública, en definitiva, pueden verse a través del uso de los recursos que hace un gobierno.
+
 
 Un sistema que corre en al menos 135 municipios
 -----------------------------------------------
