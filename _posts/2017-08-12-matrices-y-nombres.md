@@ -18,7 +18,7 @@ Para poner a andar un ratito la croqueta, me puse a pensar cómo hacer un métod
 ## Preparando el dataset
 
 ```bash
-cat historico-nombres.csv | uconv  -t ASCII -x nfd -c | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed -E 's/^ *//' | csvfix sort -smq -rh -f 1:S,3:N > sorted-ascii-historico-nombres.csv > ascii-historico-nombres.csv
+cat historico-nombres.csv | uconv  -t ASCII -x nfd -c | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed -e 's/^ *//' -e 's/ *$//' | csvfix sort -smq -rh -f 1:S,3:N > sorted-ascii-historico-nombres.csv > ascii-historico-nombres.csv
 ```
 
 Ese _pipeline_ de comandos procesa el archivo original aplicando las siguientes transformaciones:
@@ -26,7 +26,7 @@ Ese _pipeline_ de comandos procesa el archivo original aplicando las siguientes 
   - `uconv -t ASCII -x nfd -c`: Aplicar la forma de normalización _Canonical Decomposition_ de Unicode (NFD). En criollo, sacarle acentos a los caracteres
   - `tr '[:upper:]' '[:lower:]'`: pasar todo a minísculas
   - `tr -s ' '`: convertir espacios repetidos a uno sólo.
-  - `sed -E 's/^ *//'`: sacar espacios del principio de cada línea.
+  - `sed -e 's/^ *//' -e 's/ *$//'`: sacar espacios del principio y final de cada línea.
   - `csvfix sort -smq -rh -f 1:S,3:N`: ordenar la tabla según nombre y luego año.
   
 Nos queda algo así:
@@ -73,13 +73,13 @@ next(reader) # skip header
 cur_name, cur_row, i = None, None, -1
 for row in reader:
     if row[0] != cur_name:
-        NAMES[row[0]] = i
         i += 1
-
+        NAMES[row[0]] = i
+        
     if i % 2000 == 0:
         print("%d names processed" % i)
 
-    FREQS[i, int(row[2]) - YEAR_MIN] = int(row[1])
+    FREQS[i, int(row[2]) - YEAR_MIN] += int(row[1])
     cur_name = row[0]
 
 # save FREQS
@@ -124,11 +124,11 @@ FREQS[NAMES['manuel']]
 
 
 
-Visualizamos el resultado para verificar que al menos se parezca a lo que reporta. Para esto, también vamos a calcular el _pormilaje_ (?) del nombre de interés para cada año. Con los datos en esta matriz, es fácil: la cantidad de nombres en cada año es la suma de cada columna.
+Visualizamos el resultado para verificar que al menos se parezca a lo que reporta el sitio oficial. Para esto, también vamos a calcular el _pormilaje_ (?) del nombre de interés para cada año. Con los datos en esta matriz, es fácil: la cantidad de nombres en cada año es la suma de cada columna.
 
 
 ```python
-manuel_1000ct = (FREQS[NAMES['manuel']] / np.sum(FREQS, axis=0)) * 1000
+manuel_1000ct = (FREQS[NAMES['manuel']+1] / np.sum(FREQS, axis=0)) * 1000
 ```
 
 
@@ -165,7 +165,8 @@ chart
 ![png](/wp-content/uploads/2017/08/chart.png)
 
 
-Es _parecido_, pero no igual 😔. Quizás el sitio oficial esté calculando los _pormilajes_ con otros valores, o cometí algún error que no estoy viendo.
+
+Es parecido, pero no igual 😔. El 0 en 2005 no coincide con la fuente, sospecho algun problema de comparacion de strings.
 
 # Mirá, mamá: sin base de datos.
 
