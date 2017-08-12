@@ -128,7 +128,7 @@ Visualizamos el resultado para verificar que al menos se parezca a lo que report
 
 
 ```python
-manuel_1000ct = (FREQS[NAMES['manuel']+1] / np.sum(FREQS, axis=0)) * 1000
+manuel_1000ct = (FREQS[NAMES['manuel']] / np.sum(FREQS, axis=0)) * 1000
 ```
 
 
