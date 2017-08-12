@@ -18,7 +18,7 @@ Para poner a andar un ratito la croqueta, me puse a pensar cómo hacer un métod
 ## Preparando el dataset
 
 ```bash
-cat historico-nombres.csv | uconv  -t ASCII -x nfd -c | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed -e 's/^ *//' -e 's/ *$//' | csvfix sort -smq -rh -f 1:S,3:N > sorted-ascii-historico-nombres.csv > ascii-historico-nombres.csv
+cat historico-nombres.csv | uconv  -t ASCII -x nfd -c | tr '[:upper:]' '[:lower:]' | tr -s ' ' | sed -e 's/^ *//' -e 's/ *$//' | csvfix sort -smq -rh -f 1:S,3:N > sorted-ascii-historico-nombres.csv 
 ```
 
 Ese _pipeline_ de comandos procesa el archivo original aplicando las siguientes transformaciones:
