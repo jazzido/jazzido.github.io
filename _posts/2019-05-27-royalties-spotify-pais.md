@@ -184,7 +184,7 @@ alt.Chart(sales_per_month).mark_bar().encode(
 
 
 
-![png](/wp-content/2019/05/output_5_0.png)
+![png](/wp-content/uploads/2019/05/output_5_0.png)
 
 
 
@@ -312,7 +312,7 @@ alt.Chart(top_quantity.sort_values('Quantity', ascending=False)).mark_bar().enco
 
 
 
-![png](/wp-content/2019/05/output_11_0.png)
+![png](/wp-content/uploads/2019/05/output_11_0.png)
 
 
 
@@ -443,7 +443,7 @@ alt.Chart(top_per_stream_avg).mark_bar().encode(
 
 
 
-![png](/wp-content/2019/05/output_15_0.png)
+![png](/wp-content/uploads/2019/05/output_15_0.png)
 
 
 
@@ -625,7 +625,7 @@ scatter
 
 
 
-![png](/wp-content/2019/05/output_21_0.png)
+![png](/wp-content/uploads/2019/05/output_21_0.png)
 
 
 
@@ -678,7 +678,7 @@ fixed_price_text = alt.Chart(fixed_price_points).mark_text(align='left', dy=-5, 
 
 
 
-![png](/wp-content/2019/05/output_23_0.png)
+![png](/wp-content/uploads/2019/05/output_23_0.png)
 
 
 ## Qué averiguamos?
