@@ -1,8 +1,8 @@
-La Municipalidad de Bahía Blanca anunció un "sistema online de participación ciudadana". Opino que es una mala idea, e intentaré explicar por qué. Va a ser un poco largo, léanlo si tienen ganas.
+La Municipalidad de Bahía Blanca [anunció un "sistema online de participación ciudadana"](https://www.lanueva.com/nota/2020-1-25-7-30-56-preparan-un-plan-de-mayor-participacion-ciudadana-en-las-decisiones-municipales). Opino que es una mala idea, e intentaré explicar por qué. Va a ser un poco largo, léanlo si tienen ganas.
 
 Cuando opino de política, hablo porque es gratis. Salvo mi interés, y algún que otro libro que he leído, no tengo formación pertinente. Sobre tecnologías aplicadas a la actividad cívica, creo poder hablar con un poco de conocimiento del asunto.
 
-Establezco mis credenciales: por interés personal, hace 10 años construí una herramienta que se llamó Gasto Público Bahiense. Tuvo mucha más repercusión de la que imaginaba, y me llevó por un camino que "terminó" en una maestría en el MIT Media Lab, donde me dediqué a investigar cuestiones relacionadas y construir tecnologías que se inscriben en estas áreas.
+Establezco mis credenciales: por interés personal, hace 10 años construí una herramienta que se llamó Gasto Público Bahiense. Tuvo mucha más repercusión de la que imaginaba, y me llevó por un camino que "terminó" en una maestría en el [MIT Media Lab](https://media.mit.edu), donde me dediqué a investigar cuestiones relacionadas y construir tecnologías que se inscriben en estas áreas.
 
 Hace 10 años, las tecnologías aplicadas a la participación cívica estaban en auge. Fui partícipe activo y a veces protagonista de esos movimientos durante su máxima popularidad. Participé como disertante y asistente en decenas de conferencias dedicadas al tema en Latinoamérica, Europa y Estados Unidos. Muchas de esas charlas están en YouTube, pueden buscarlas. Fui parte de varios equipos que construyeron "tecnología cívica". A veces me pagaron, pero casi siempre lo hice ad-honorem y por puro interés profesional.
 
