@@ -1,13 +1,11 @@
 ---
-title: Participación ciudadana online: y dale con Pernía
+title: "Participación ciudadana online: y dale con Pernía"
 author: manuel
 layout: post
 permalink: /2020/01/27/participacion-ciudadana
 categories:
   - Uncategorized
 ---
-
-( Originalmente publicado en Facebook: https://www.facebook.com/manuelaristaran/posts/10162819542500305 )
 
 La Municipalidad de Bahía Blanca [anunció un "sistema online de participación ciudadana"](https://www.lanueva.com/nota/2020-1-25-7-30-56-preparan-un-plan-de-mayor-participacion-ciudadana-en-las-decisiones-municipales). Opino que es una mala idea, e intentaré explicar por qué. 
 
