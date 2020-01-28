@@ -7,7 +7,9 @@ categories:
   - Uncategorized
 ---
 
-La Municipalidad de Bahía Blanca [anunció un "sistema online de participación ciudadana"](https://www.lanueva.com/nota/2020-1-25-7-30-56-preparan-un-plan-de-mayor-participacion-ciudadana-en-las-decisiones-municipales). Opino que es una mala idea, e intentaré explicar por qué. Va a ser un poco largo, léanlo si tienen ganas.
+(Originalmente publicado en Facebook: https://www.facebook.com/manuelaristaran/posts/10162819542500305)
+
+La Municipalidad de Bahía Blanca [anunció un "sistema online de participación ciudadana"](https://www.lanueva.com/nota/2020-1-25-7-30-56-preparan-un-plan-de-mayor-participacion-ciudadana-en-las-decisiones-municipales). Opino que es una mala idea, e intentaré explicar por qué. 
 
 Cuando opino de política, hablo porque es gratis. Salvo mi interés, y algún que otro libro que he leído, no tengo formación pertinente. Sobre tecnologías aplicadas a la actividad cívica, creo poder hablar con un poco de conocimiento del asunto.
 
