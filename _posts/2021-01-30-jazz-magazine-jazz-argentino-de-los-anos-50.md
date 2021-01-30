@@ -17,8 +17,8 @@ En las páginas de «Jazz Magazine» aparecen crónicas sobre las primeras reuni
 
 Hace rato que tengo estas revistas. Hoy las escaneé y las subí al Internet Archive, una entidad sin fines de lucro cuya misión es preservar y ofrecer acceso universal al conocimiento de todo el mundo. 
 
-  - https://archive.org/details/jazzmagazinejun1951/mode/2up
-  - https://archive.org/details/jazzmagazinejul1951/mode/2up
-  - https://archive.org/details/jazzmagazinesepoct1951/mode/2up
+  - [Jazz Magazine - Junio de 1951](https://archive.org/details/jazzmagazinejun1951/mode/2up)
+  - [Jazz Magazine - Julio de 1951](https://archive.org/details/jazzmagazinejul1951/mode/2up)
+  - [Jazz Magazine - Septiembre-Octubre de 1951](https://archive.org/details/jazzmagazinesepoct1951/mode/2up)
   
 <iframe src="https://archive.org/embed/jazzmagazinejun1951" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
