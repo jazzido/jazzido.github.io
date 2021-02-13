@@ -31,6 +31,13 @@ Sigamos abusando del _argumentum ad tabaci_: los ex-fumadores suelen hablar de u
 
 Le dije a Twitter que sí, que realmente quería borrar la cuenta. Como 12 veces me preguntó.
 
+Igual que el ex-fumador reciente, aquí estoy militando el éxido masivo de ese sitio del infierno. Desde que no paso horas ahí adentro, volví a otras cosas: leo artículos completos,
+no soy víctima de tantos _trolleos_ y operaciones burdas. Perdí el movimiento muscular reflejo de abrir un _tab_ del navegador, y abrir Twitter y perder varios minutos. Leo más libros. Toco mi contrabajo y disfruto de no hacer nada.
+
+Todavía estoy en Facebook, porque ahí está la gente que conozco del mundo real, la que me importa de verdad. Y en Instagram, porque soy músico y los músicos están ahí.
+
+Pero Twitter, nunca más.
+
 
 
 
