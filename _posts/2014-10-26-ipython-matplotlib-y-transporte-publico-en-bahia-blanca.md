@@ -66,8 +66,8 @@ También es interesante ver *dónde* comienzan sus viajes los usuarios que reali
  [3]: http://matplotlib.org/basemap/
  [4]: http://gabierto.bahiablanca.gov.ar/
  [5]: http://nbviewer.ipython.org/gist/jazzido/dc5cc9b5126943ae82ea
- [6]: http://blog.jazzido.com/wp-content/uploads/2014/10/avg_trips.png
- [7]: http://blog.jazzido.com/wp-content/uploads/2014/10/perfil_usuario_1.png
- [8]: http://blog.jazzido.com/wp-content/uploads/2014/10/perfil_usuario_2.png
- [9]: http://blog.jazzido.com/wp-content/uploads/2014/10/matriz_lineas.png
- [10]: http://blog.jazzido.com/wp-content/uploads/2014/10/514-517.png
+ [6]: https://blog.jazzido.com/wp-content/uploads/2014/10/avg_trips.png
+ [7]: https://blog.jazzido.com/wp-content/uploads/2014/10/perfil_usuario_1.png
+ [8]: https://blog.jazzido.com/wp-content/uploads/2014/10/perfil_usuario_2.png
+ [9]: https://blog.jazzido.com/wp-content/uploads/2014/10/matriz_lineas.png
+ [10]: https://blog.jazzido.com/wp-content/uploads/2014/10/514-517.png

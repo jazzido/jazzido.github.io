@@ -6,7 +6,7 @@ permalink: /2014/01/17/presupuestos-publicos-del-pdf-a-la-visualizacion/
 enclosure:
   - |
     |
-        http://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm
+        https://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm
         3202926
         video/webm
 
@@ -17,14 +17,14 @@ categories:
 ---
 Los fines y comienzos de año traen muchas noticias sobre los presupuestos públicos. Los medios comienzan informando sobre los proyectos de presupuesto enviados a las legislaturas por los ejecutivos, luego reportan sobre el debate, y finalmente sobre las inevitables disconformidades de la oposición, sindicatos y privados. Esas coberturas suelen centrarse en las variaciones interanuales de las partidas; tal ministerio subió en un 10% su presupuesto de gastos, y así. Es una gran oportunidad, en general no aprovechada por los medios digitales argentinos, para usar herramientas de visualización de datos que permitan una mejor comprensión de esos cambios presupuestarios. Por el contrario, eligen escribir cosas como &#8220;*el Ministerio X tendrá asignados 54.234 millones de pesos, lo que representa un incremento del 12.98% con respecto al año pasado*&#8220;. Es decir, consideran a la web como una hoja de papel y se limitan a traducir a lenguaje escrito lo que podría ser mejor expresado gráfica e interactivamente. Quizás la razón sea que muchos gobiernos, salvo honrosas excepciones, insisten en disponibilizar información pública en formatos muy difíciles de procesar y poco apropiados para el *intercambio* de información. En este post vamos a tomar como ejemplo los [presupuestos de gastos publicados por el gobierno de la provincia de Buenos Aires en formato PDF][1], el favorito de los funcionarios públicos.
 
-<img class=" wp-image-722  " alt="Primera página del presupuesto de gastos por jurisdicción y objeto (pcia BS.AS, 2013) " src="http://blog.jazzido.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-17-at-7.20.31-PM.png" width="600" height="368" />
+<img class=" wp-image-722  " alt="Primera página del presupuesto de gastos por jurisdicción y objeto (pcia BS.AS, 2013) " src="https://blog.jazzido.com/wp-content/uploads/2014/01/Screen-Shot-2014-01-17-at-7.20.31-PM.png" width="600" height="368" />
 (Primera página del presupuesto de gastos por jurisdicción y objeto (pcia BS.AS, 2013))
 
 La imagen anterior es una captura de una página del presupuesto de gastos 2013 de la provincia de Buenos Aires. Queremos *visualizar* esa información. Si hubiera estado publicada en el formato apropiado, como CSV o inclusive Excel, podríamos habernos puesto manos a la obra. Pero está en PDF, así que vamos a tener que extraer los datos que contiene. Para eso vamos a usar [Tabula][2], una herramienta opensource para *liberar* *tablas* *atrapadas* en PDF que comencé a desarrollar el año pasado. Este video muestra cómo extraer una tabla como la del presupuesto con Tabula:
 
 
-<video class="wp-video-shortcode" id="video-719-1" width="640" height="384" preload="metadata" controls="controls"><source type="video/webm" src="http://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm?_=1" />
-  <a href="http://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm">http://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm</a></video>
+<video class="wp-video-shortcode" id="video-719-1" width="640" height="384" preload="metadata" controls="controls"><source type="video/webm" src="https://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm?_=1" />
+  <a href="https://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm">https://blog.jazzido.com/wp-content/uploads/2014/01/tabula-presupuesto2.webm</a></video>
 
 
 Vamos a obtener un archivo CSV, que tiene la siguiente estructura:
