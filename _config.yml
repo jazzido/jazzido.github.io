@@ -12,4 +12,11 @@ highlighter:  rouge
 paginate:     5
 google_analytics: UA-68057-6
 disqus: millondemonos
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-archives]
+plugins:
+  - jekyll-archives
+jekyll-archives:
+  enabled: [year]
+  layout: archive
+  permalinks:
+    year: '/:year/'

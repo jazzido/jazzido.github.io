@@ -7,8 +7,20 @@
 
     <header class="masthead">
       <div class="masthead-inner">
-        <h1><a href="/">{{ site.title }}</a></h1>
-        <p class="lead">{{ site.description }}</p>
+        <h1><a href="/">{{site.title}}</a></h1>
+        <p class="lead">{{site.description}}</p>
+        {% assign counter = 0 %}
+        <ul id="archive-by-year">
+        {% for post in site.posts %}
+          {% assign thisyear = post.date | date: "%Y" %}
+          {% assign prevyear = post.previous.date | date: "%Y" %}
+          {% assign counter = counter | plus: 1 %}
+          {% if thisyear != prevyear %}
+            <li><a href="/{{ post.date | date:"%Y" }}">{{ thisyear }} ({{ counter }})</a></li>
+            {% assign counter = 0 %}
+          {% endif %}
+        {% endfor %}
+        </ul>
 
         <div class="colophon">
           <ul class="colophon-links">
@@ -31,7 +43,7 @@
     </div>
     {% include analytics.html %}
     <script>
-      if (location.protocol !== 'https:') {
+      if (!location.host.startsWith('127.0.0.1') && !location.host.startsWith('localhost') && location.protocol !== 'https:') {
         location.replace(`https:${location.href.substring(location.protocol.length)}`);
       }
     </script>

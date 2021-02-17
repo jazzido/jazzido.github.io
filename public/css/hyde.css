@@ -262,6 +262,9 @@ a:focus {
   .masthead-inner {
     padding: 40px;
   }
+  .masthead-inner #archive-by-year {
+    display: block !important;
+  }
 }
 @media (min-width: 990px) {
   /* Fix the masthead to the side for impact and awesomeness */
@@ -496,4 +499,14 @@ a:focus {
 .theme-base-0f .container a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+.masthead-inner #archive-by-year {
+  display: none;
+  font-size: 12px;
+  padding: 0;
+}
+
+.masthead-inner #archive-by-year li {
+  display: inline-block;
 }
