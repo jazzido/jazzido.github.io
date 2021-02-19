@@ -16,5 +16,5 @@ Estamos presenciando el comienzo de la tormenta final, los preparativos del apoc
 
 Felicitaciones a los responsables de la usabilidad y promoción, superaron el [Mom Test][2]
 
- [1]: http://blog.jazzido.com/assets/2008/1/19/madre.jpg
+ [1]: https://blog.jazzido.com/wp-content/old/2008/1/19/madre.jpg
  [2]: http://www.economist.com/displayStory.cfm?story_id=3307430

@@ -9,5 +9,5 @@ categories:
   - Uncategorized
 ---
 <div style="margin: 0 auto;">
-  <img src="http://blog.jazzido.com/assets/2006/11/12/end.png" alt="" />
+  <img src="https://blog.jazzido.com/wp-content/old/2006/11/12/end.png" alt="" />
 </div>

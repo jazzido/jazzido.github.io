@@ -10,4 +10,4 @@ categories:
 ---
 ![][1]
 
- [1]: http://blog.jazzido.com/assets/2007/2/10/dont_think.jpg
+ [1]: https://blog.jazzido.com/wp-content/old/2007/2/10/dont_think.jpg

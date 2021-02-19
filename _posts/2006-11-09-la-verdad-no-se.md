@@ -12,4 +12,4 @@ categories:
 
 *(La cuenta de email no es un buen lugar para recibir esta clase de planteos metafísicos)*
 
- [1]: http://blog.jazzido.com/assets/2006/11/9/cielo.png
+ [1]: https://blog.jazzido.com/wp-content/old/2006/11/9/cielo.png

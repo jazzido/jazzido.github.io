@@ -17,4 +17,4 @@ Publica [Clarín][1], en la página inicial de su sitio web:
 ![][2]
 
  [1]: http://www.clarin.com
- [2]: http://blog.jazzido.com/assets/2007/4/4/horangel.jpg
+ [2]: https://blog.jazzido.com/wp-content/old/2007/4/4/horangel.jpg

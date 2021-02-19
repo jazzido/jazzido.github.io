@@ -12,4 +12,4 @@ tags:
 ---
 ![][1]
 
- [1]: http://blog.jazzido.com/assets/2007/9/14/Picture_2.png
+ [1]: https://blog.jazzido.com/wp-content/old/2007/9/14/Picture_2.png

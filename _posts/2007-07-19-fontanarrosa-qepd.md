@@ -12,4 +12,4 @@ categories:
 
 Gracias por todo, Fontanarrosa.
 
- [1]: http://blog.jazzido.com/assets/2007/7/19/rg2-creador-paisano-0.jpg
+ [1]: https://blog.jazzido.com/wp-content/old/2007/7/19/rg2-creador-paisano-0.jpg
