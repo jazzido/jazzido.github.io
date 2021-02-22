@@ -22,9 +22,11 @@ Esta versión se hizo pública a mediados de octubre de 2019. La cosa empezó a 
 
 ![Grafico de usarios activos desde Octubre de 2019 hasta Marzo de 2020](/wp-content/uploads/unabanda-users.png "Veniamos bien y aparecio COVID")
 
-### La Gran Cuarentena de 2020
+## La Gran Cuarentena de 2020
 
-El gráfico anterior es una gran foto del año pasado. A partir de la segunda semana de marzo, la música en vivo desapareció y se desplomó el tráfico a [unabanda.org](https://unabanda.org). No tenía sentido seguir trabajando en el sitio, así que pusimos un cartelito
+El gráfico anterior es una gran foto del año pasado. A partir de la segunda semana de marzo, la música en vivo desapareció y se desplomó el tráfico a [unabanda.org](https://unabanda.org). No tenía sentido seguir trabajando en el sitio, así que pusimos un cartelito y desensillamamos hasta que aclarara.
+
+
 
 [^1]: "Tener tiempo" a los 40 años era una oportunidad única, había que aprovecharla.
 [^2]: Eventos, Lugares y Ciudades.
