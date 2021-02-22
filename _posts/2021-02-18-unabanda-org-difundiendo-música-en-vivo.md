@@ -11,8 +11,20 @@ En esa misma época descubrí en Facebook el laburo de Fabio, que publicaba todo
 
 Construí la primer versión de la agenda usando [GatsbyJS](https://www.gatsbyjs.com/), un generador de sitios web que en ese entonces gozaba de cierta popularidad. Estuvo online unos días y me di cuenta que no funcionaba para una herramienta de este tipo. Por otro lado, me resultó un horror como sistema: complejo, lento, inestable.
 
+
 ## Segundo intento
+
+Seguía teniendo tiempo, así que decidí empezar de vuelta. Esta vez, elegí hacer un sitio con una arquitectura convencional: un frontend implementando con [Next.JS](https://nextjs.org/) y un backend hecho en Python que expone los datos mediante [GraphQL](https://graphql.org).
+
+Para el _data entry_ de los eventos construí un modelo de datos muy simple [^2] en Airtable. El backend obtiene los datos periódicamente y los almacena en su base de datos local.
+
+Esta versión se hizo pública a mediados de octubre de 2019. La cosa empezó a tener un crecimiento de tráfico considerable, como se ve en el gráfico. La subida que empieza en Diciembre corresponde con la decisión de haber hecho una [Facebook Page](https://www.facebook.com/unabandaorg), en la que todos los días se publica un posteo que contiene la agenda del día. Esto sucede mediante [Zapier][https://zapier.com/], porque usar directamente las APIs de Facebook es exageradamente difícil.
 
 ![Grafico de usarios activos desde Octubre de 2019 hasta Marzo de 2020](/wp-content/uploads/unabanda-users.png "Veniamos bien y aparecio COVID")
 
+### La Gran Cuarentena de 2020
+
+El gráfico anterior es una gran foto del año pasado. A partir de la segunda semana de marzo, la música en vivo desapareció y se desplomó el tráfico a [unabanda.org](https://unabanda.org). No tenía sentido seguir trabajando en el sitio, así que pusimos un cartelito
+
 [^1]: "Tener tiempo" a los 40 años era una oportunidad única, había que aprovecharla.
+[^2]: Eventos, Lugares y Ciudades.
