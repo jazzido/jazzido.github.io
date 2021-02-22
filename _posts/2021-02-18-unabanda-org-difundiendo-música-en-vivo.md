@@ -20,7 +20,7 @@ Seguía teniendo tiempo, así que decidí empezar de vuelta. Esta vez, elegí ha
 
 Para el _data entry_ de los eventos construí un modelo de datos muy simple [^2] en Airtable. El backend obtiene los datos periódicamente y los almacena en su base de datos local.
 
-Esta versión se hizo pública a mediados de octubre de 2019. La cosa empezó a tener un crecimiento de tráfico considerable, como se ve en el gráfico. La subida que empieza en Diciembre corresponde con la decisión de haber hecho una [Facebook Page](https://www.facebook.com/unabandaorg), en la que todos los días se publica un posteo que contiene la agenda del día. Esto sucede mediante [Zapier][https://zapier.com/], porque usar directamente las APIs de Facebook es exageradamente difícil.
+Esta versión se hizo pública a mediados de octubre de 2019. La cosa empezó a tener un crecimiento de tráfico considerable, como se ve en el gráfico. La subida que empieza en Diciembre corresponde con la decisión de haber hecho una [Facebook Page](https://www.facebook.com/unabandaorg), en la que todos los días se publica un posteo que contiene la agenda del día. Esto sucede mediante [Zapier](https://zapier.com/), porque usar directamente las APIs de Facebook es exageradamente difícil.
 
 ![Grafico de usarios activos desde Octubre de 2019 hasta Marzo de 2020](/wp-content/uploads/unabanda-users.png "Veniamos bien y aparecio COVID")
 
@@ -59,4 +59,4 @@ Si sos programador/programadora o diseñador/diseñadora, también nos sirve tu 
 [^1]: "Tener tiempo" a los 40 años era una oportunidad única, había que aprovecharla.
 [^2]: Eventos, Lugares y Ciudades.
 [^3]: Prócer indiscutible de las tecnologías abiertas de programación web. Entre otras cosas, es uno de los co-autores de [Django](https://www.djangoproject.com/), legendario _framework_ para construcción de sitios web.
-[^4] Es parte fundamental de los sistemas operativos Android y iOS.
+[^4]: Es parte fundamental de los sistemas operativos Android y iOS.
